@@ -1,0 +1,46 @@
+
+#======================================================================
+# CRYSTAL DATA
+#----------------------------------------------------------------------
+data_VESTA_phase_1
+
+_chemical_name_common                  'XCrySDen XSF file'
+_cell_length_a                         5.123536
+_cell_length_b                         5.116309
+_cell_length_c                         5.116309
+_cell_angle_alpha                      60.000004
+_cell_angle_beta                       60.046650
+_cell_angle_gamma                      60.046650
+_cell_volume                           94.901746
+_space_group_name_H-M_alt              'P 1'
+_space_group_IT_number                 1
+
+loop_
+_space_group_symop_operation_xyz
+   'x, y, z'
+
+loop_
+   _atom_site_label
+   _atom_site_occupancy
+   _atom_site_fract_x
+   _atom_site_fract_y
+   _atom_site_fract_z
+   _atom_site_adp_type
+   _atom_site_B_iso_or_equiv
+   _atom_site_type_symbol
+   B1         1.0     0.000856    -0.000285    -0.000285    Biso  1.000000 B
+   C1         1.0    -0.127584     0.385067    -0.128741    Biso  1.000000 C
+   C2         1.0     0.002577    -0.010062     0.503743    Biso  1.000000 C
+   B2         1.0    -0.125837     0.375279     0.375279    Biso  1.000000 B
+   C3         1.0     0.002577     0.503743    -0.010062    Biso  1.000000 C
+   C4         1.0    -0.127584     0.871259    -0.128741    Biso  1.000000 C
+   C5         1.0     0.002577     0.503743     0.503743    Biso  1.000000 C
+   C6         1.0    -0.127584     0.871259     0.385067    Biso  1.000000 C
+   C7         1.0     0.500347    -0.001362    -0.001362    Biso  1.000000 C
+   C8         1.0     0.374652     0.376364    -0.127380    Biso  1.000000 C
+   C9         1.0     0.500347    -0.001362     0.502378    Biso  1.000000 C
+   C10        1.0     0.374652     0.376364     0.376364    Biso  1.000000 C
+   C11        1.0     0.500347     0.502378    -0.001362    Biso  1.000000 C
+   C12        1.0     0.382276     0.872575    -0.127425    Biso  1.000000 C
+   C13        1.0     0.492735     0.502422     0.502422    Biso  1.000000 C
+   C14        1.0     0.374652     0.872620     0.376364    Biso  1.000000 C
