@@ -1,4 +1,0 @@
-ase
-McStasScript
-notebook
-dill
